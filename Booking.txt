@@ -1,0 +1,6 @@
+
+  Booking ID : RM002
+  Room Number :  2
+  Name Of Customer : Dulara
+  Date Of Check In : 2024.05.06
+  Date Of Check Out : 2024.05.30
